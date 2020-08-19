@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACEA,AAAA,MAAM,AAAA,CACF,gBAAgB,CAHb,IAAO,CAIb",
+    "sources": [
+        "../SASS/scss/main.scss",
+        "../SASS/scss/components/_header.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}

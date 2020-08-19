@@ -1,0 +1,13 @@
+h2{
+    font-size: $header;
+    color: $green;
+    @include background-color-changer;
+}
+
+p{
+   font-size: $small;
+   font-family: $font;
+    @include background-color-changer;
+    font-weight: getFont("bold")
+}
+

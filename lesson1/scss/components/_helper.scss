@@ -1,0 +1,15 @@
+@mixin background-color-changer {
+   background-color: red;
+  }
+
+  $font-weights: ("regular": 400, 
+  "medium": 500,
+   "bold": 700
+   );
+
+
+@function getFont($font){
+    @return map-get($font-weights, $font-weights);
+}
+
+

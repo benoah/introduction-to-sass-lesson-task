@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AIAA,AAAA,EAAE,AAAA,CACE,SAAS,CHML,IAAI,CGLR,KAAK,CHAF,KAAK,CEDT,gBAAgB,CAAE,GAAG,CCGvB,AAED,AAAA,CAAC,AAAA,CACE,SAAS,CHDL,IAAI,CGER,WAAW,CHCR,IAAI,CAAC,IAAI,CERZ,gBAAgB,CAAE,GAAG,CCUvB,ACVD,AAAA,MAAM,AAAA,CACF,SAAS,CJIN,IAAI,CIDV,AAED,AAAA,GAAG,AAAC,CAEA,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,YAAY,CAC7B,WAAW,CAAE,MAAM,CAMtB,AAVD,AAMI,GAND,CAMC,EAAE,AAAA,CACE,KAAK,CJVF,IAAO,CIWV,gBAAgB,CJbjB,KAAK,CIcP",
+    "sources": [
+        "../scss/main.scss",
+        "../scss/components/_variabels.scss",
+        "../scss/components/_base.scss",
+        "../scss/components/_helper.scss",
+        "../scss/components/_mainintro.scss",
+        "../scss/components/_header.scss"
+    ],
+    "names": [],
+    "file": "main.min.css"
+}
